@@ -404,3 +404,25 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+/* footer section start here */
+.footer-bg {
+    background-color: rgba(13, 19, 33, 0.03);
+    background-size: cover;
+    height: 100px;
+    padding: 32px 150px 32px 150px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: row;
+    align-items: center;
+}
+
+.footer-text-p {
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footer-icon {
+    margin-left: 24px;
+}
