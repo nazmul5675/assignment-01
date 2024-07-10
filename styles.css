@@ -265,3 +265,72 @@
 .Inspiration-video-r {
     border-radius: 16px;
 }
+
+/* target section start here */
+.My-Current-container {
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 251px;
+}
+
+.My-Current-container-text {
+    text-align: center;
+}
+
+.My-Current-container-h2 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.My-Current-container-p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.My-Current-container-card {
+    display: flex;
+}
+
+.My-Current-container-card1 {
+    background: #EBEBEB;
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+
+.My-Current-container-card2 {
+    background: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+
+
+.My-Current-container-card3 {
+    background: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+    margin-right: 24px;
+    border-radius: 16px;
+
+}
+
+.My-Current-container-h3 {
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.My-Current-container-card-p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.My-Current-container-card-ankor {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+}
