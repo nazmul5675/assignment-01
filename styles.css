@@ -228,3 +228,40 @@
 .why-web-section-three {
     margin-top: 32px;
 }
+
+/* Inspiration section start */
+.Inspiration {
+    width: 1140px;
+    height: 775px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.Inspiration-text {
+    text-align: center;
+}
+
+.Inspiration-h2 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.Inspiration-p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.Inspiration-video {
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    padding: 32px;
+    border-radius: 16px;
+}
+
+.Inspiration-video-r {
+    border-radius: 16px;
+}
